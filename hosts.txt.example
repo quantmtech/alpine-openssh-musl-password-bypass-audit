@@ -1,0 +1,6 @@
+# One hostname or IP per line. Lines starting with # are ignored.
+# Copy this file to hosts.txt and edit before running the audit.
+#
+# 10.0.1.10
+# 10.0.1.11
+# web01.internal.example.com
