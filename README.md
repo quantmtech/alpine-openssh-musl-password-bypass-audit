@@ -100,11 +100,6 @@ signs of prior exploitation before re-running the audit to confirm
   version comparison here is authoritative.
 - Only run this against hosts you own or are explicitly authorized to
   assess.
-
-## Related reading
-
-- [How to Audit and Fix the Alpine OpenSSH Password Bypass](https://dev.to/jamilxt/how-to-audit-and-fix-the-alpine-openssh-password-bypass-5hih) — the original writeup this tool was built against; worth reading for the full advisory context and log-forensics detail.
-
 ## License
 
 MIT. See [LICENSE](./LICENSE).
